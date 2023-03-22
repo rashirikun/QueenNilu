@@ -18,11 +18,11 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'false'
+global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['22501561926'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -36,11 +36,11 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'YAHNN' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_YAHNN_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -53,9 +53,9 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'https://github.com/rashirikun/'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'https://youtube.com/c/rashirikun'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -89,11 +89,11 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Send Welcome ( true or false )
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["22501561926"]
 
 
 
@@ -105,8 +105,8 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['22501561926,19543145805'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['22501561926,19543145805'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '_Janiya_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
